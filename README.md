@@ -43,6 +43,7 @@ payload = {
             'username': '*****@*****.com',
           ....
         }
+     }
 ```
 10. Edit the following line in **LastPass_MasterPassword_auditing.py**
 ```json
@@ -63,6 +64,7 @@ payload = {
             'username': '*****@*****.com',
           ....
         }
+     }
 ```
 4. Clone the repository locally via Git
 5. Create a tmp directory in the project folder
